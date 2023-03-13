@@ -17,7 +17,7 @@ OSINT : Malek Trabelssi + Oussama Ben Hadj Dahman
 
 Cryprography : Meriem Ferjani + Alaa brahim
 
-web exploitation : Iheb Aouini + Seifalah hamrouni
+web exploitation : Iheb Aouini + Seif-Allah Homrani
 
 blockchain : Oussama Ben Hadj Dahman
 
