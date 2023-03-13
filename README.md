@@ -8,10 +8,17 @@ This is the officiall writeups of the CTF hold on 11 March 2023 at HackMaze V0.2
 ## Authors :
 
 Forensics : Oussama Ben Hadj Dahman
+
 Reverse engineering : Adem Marzouki
+
 PWN : mau + Alaa brahim
+
 OSINT : Malek Trabelssi + Oussama Ben Hadj Dahman
+
 Cryprography : Meriem Ferjani + Alaa brahim
+
 web exploitation : Iheb Aouini + Seifalah hamrouni
+
 blockchain : Oussama Ben Hadj Dahman
+
 stegano : Alaa brahim
